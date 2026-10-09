@@ -1,0 +1,41 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Executar todas",
+      "request": "launch",
+      "mainClass": "Main"
+    },
+    {
+      "type": "java",
+      "name": "Historia 1",
+      "request": "launch",
+      "mainClass": "historia1.Main"
+    },
+    {
+      "type": "java",
+      "name": "Historia 2",
+      "request": "launch",
+      "mainClass": "historia2.Main"
+    },
+    {
+      "type": "java",
+      "name": "Historia 3",
+      "request": "launch",
+      "mainClass": "historia3.Main"
+    },
+    {
+      "type": "java",
+      "name": "Historia 4",
+      "request": "launch",
+      "mainClass": "historia4.Main"
+    },
+    {
+      "type": "java",
+      "name": "Historia 5",
+      "request": "launch",
+      "mainClass": "historia5.Main"
+    }
+  ]
+}
